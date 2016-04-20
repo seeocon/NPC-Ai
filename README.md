@@ -4,12 +4,6 @@ This code is currently still being worked on, and is free to use for non-commerc
 LICENSING:
 	
 This code is licensed to the Creative Commons Attribution-NonCommercial-ShareAlike 3.0
-	
-Please provide bug fixes or additional features
-to me for inclusion in the code base. 
-If you know of any particular bugs it would be great if
-you could let me know about them so I could fix them.
-My email address is hzy.designs@gmail.com so feel free to contact me.
 
 How to use it:
 
